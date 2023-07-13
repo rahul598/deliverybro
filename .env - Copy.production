@@ -1,0 +1,4 @@
+NEXT_PUBLIC_ENABLE_REDUX_DEV_TOOLS= true
+NEXT_PUBLIC_GOOGLE_MAP_KEY= AIzaSyAjllcU_C9wKo0WOoNEIsXXy7CfbJrZ8vw
+NEXT_PUBLIC_BASE_URL= https://admin.deliverybro.in
+NEXT_CLIENT_HOST_URL= https://admin.deliverybro.in
